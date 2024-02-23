@@ -98,7 +98,7 @@ main {
     position: relative;
 }
 
-#cover text {
+#cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent*/
     background-color: rgba (241, 109, 107, .7);
     font-size: 130%;
